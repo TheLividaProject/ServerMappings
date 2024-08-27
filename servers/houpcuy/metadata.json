@@ -1,14 +1,12 @@
 {
-    "id": "potionmc",
-    "name": "PotionMC Network",
-    "description": "The Next Generation Competitive PvP Server",
+    "id": "houpcuy",
+    "name": "NeverMinds Network",
+    "description": "The Next Best PvP Server",
     "addresses": [
-      "potionmc.com",
-      "potpvp.cc",
-      "potpvp.cn",
-      "potpvp.lol"
+      "houpcuy.cc",
+      "neverminds.cc"
     ],
-    "primaryAddress": "mc.potpvp.cc",
+    "primaryAddress": "neverminds.cc",
     "minecraftVersions": [
       "1.7.*",
       "1.8.*"
@@ -29,9 +27,9 @@
       "PvP",
       "Minigames"
     ],
-    "website": "https://www.potpvp.cc",
-    "store": "https://store.potpvp.cc",
+    "website": "https://www.houpcuy.com",
+    "store": "https://store.houpcuy.com",
     "socials": {
-      "discord": "https://discord.gg/jBa9gmX6wS"
+      "discord": "https://discord.gg/NPje2kPgrp"
     }
 }
